@@ -1,5 +1,5 @@
 # xk6-gomail
-[k6](https://github.com/grafana/k6) extension to k6 extension to use [gomail](https://pkg.go.dev/gopkg.in/gomail.v2#section-readme) library for sending emails. Implemented using the [xk6](https://github.com/grafana/xk6) system.
+[k6](https://github.com/grafana/k6) extension to k6 extension to use [gomail](https://pkg.go.dev/gopkg.in/gomail.v2#section-readme) package for sending emails. Implemented using the [xk6](https://github.com/grafana/xk6) system.
 
 ## Build
 
